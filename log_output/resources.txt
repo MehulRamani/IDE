@@ -1,0 +1,10 @@
+ /shuttle/countdown/video/livevideo.jpeg HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html   HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html   HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html   HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html HTTP/1.0
+ /statistics/1995/bkup/Mar95_full.html   HTTP/1.0
+ /statistics/1995/Jun/Jun95_reverse_domains.html HTTP/1.0
+ /statistics/1995/Jun/Jun95_reverse_domains.html HTTP/1.0
